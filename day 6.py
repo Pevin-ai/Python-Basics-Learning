@@ -1,0 +1,10 @@
+tasks = []
+tasks.append("College work mudikkanum")
+tasks.append("Python padikkanum")
+tasks.append("GitHub upload pannanum")
+print("Ennoda Tasks list:")
+print(tasks)
+print("\nRendavathu mukkiyamana task:")
+print(tasks[0])
+print("\nMothama irukira tasks:")
+print(len(tasks))
