@@ -10,5 +10,6 @@ This repository is where I track my daily progress in learning Python. My goal i
 - ✅ **Day 4:** Loops (For & While)
 - ✅ **Day 5:** Functions (def)
 - ✅ **Day 6:** Lists(append,len,remove,indexing)
+_ ✅ **Day 7:** Lists(iterating and slicing)
 ----
-*Status: Currently on Day 6... more to come!*
+*Status: Currently on Day 7... more to come!*
