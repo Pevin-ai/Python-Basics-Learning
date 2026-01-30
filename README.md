@@ -11,5 +11,7 @@ This repository is where I track my daily progress in learning Python. My goal i
 - ✅ **Day 5:** Functions (def)
 - ✅ **Day 6:** Lists(append,len,remove,indexing)
 _ ✅ **Day 7:** Lists(iterating and slicing)
+_ ✅ **Day 8:** Nested loop
+_ ✅ I Have done a small project- ATM Pin Lock System 
 ----
-*Status: Currently on Day 7... more to come!*
+*Status: Currently on Day 8... more to come!*
